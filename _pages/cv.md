@@ -9,56 +9,82 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+***![images/my pp photo.jpg](data:image/jpeg;base64...) PRAMOD PRASAD SAH***
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**PROFESSIONAL SUMMARY**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Hands-on 23 years of experience and understanding of theory and practice of **Chemistry**. Thorough knowledge to develop, implement, and analyze student assessments. Immense ability to establish and maintain high academic standards. Amazing ability to work collaboratively with administration.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+***PERSONAL INFORMATION***
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Sex :** Male
+
+**Date of Birth :** 1974 – 09 - 29
+
+**Nationality :** Nepali
+
+**WORK HISTORY**
+
+**PGT Chemistry 04/2020 to Current**
+
+**NAME Institute, Putalisadak, Kathmandu, Nepal**
+
+* Preparing students of class xi and xii every year for board exam of CBSE and for other competitive entrance exam like IIT, NEET, IOM, IOE.
+
+**PGT Chemistry 05/2018 to 02/2020**
+
+* SRI SANJEEVANI IIT and Medical Academy, Hyderabad
+
+**PGT Chemistry 04/2016 to 02/2018**
+
+**RAI School (affl. To CBSE), Jorpati, Kathmandu, Nepal**
+
+* Inspired academic success based on belief that all students can achieve excellence, regardless of background.
+* Created engaging lesson plans, fostered culture of discovery and provided well-organised classroom structure to help students succeed in programme.
+* Instructed middle school students through lectures, discussions, group activities and demonstrations.
+
+**PGT Chemistry 08/2001 to 03/2015**
+
+**Modern Indian School (affl. To CBSE), Chovar, Kathmandu, Nepal**
+
+• Engaged and enthused students in diverse chemistry principles and theoretical concepts through .
+
+• Carried out day-day duties accurately and efficiently.
+
+• Worked with administrators on behavioural issues to support needs of all students.
+
+• Evaluated submitted assignments for clarity and skills, assigned grades and discussed results
+
+**Publication : *CHEMISTRY FOR MBBS ENTRANCE PREPARATION***
+
+*A complete Preparation Book for Medical & Engineering Entrance examination.*
+
+***CONTACT ADRESS***
+
+*Sabaila -10 ( Kharihani -3), Dhanusha, State-2, Nepal*
+
+*Mo. No. : +977-9841306749,*
+
+*+977-9825857663( Whatsapp no.)*
+
+*email: pramodshah87@yahoo.com*
+
+***SKILLS***
+
+* 1.
+* Knowledge of chemistry and a variety of strategies for engagement, instruction, and assessment.
+* 2.
+
+Knowledge of and training in chemical and laboratory preparation and safety.
+
+* **3.** Communication and interpersonal skills to work with other teachers, parents, and administrators.
+
+. Ed 2011 Tribhuwan University,Nepal 2nd
+
+***EDUCATION***
+
+***M.Sc Chemistry (TU, Nepal) 1999***
+
+***B.Sc (TU, Nepal) 1997***
+
+***B.Ed (TU, Nepal) 2011***
