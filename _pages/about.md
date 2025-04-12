@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Pramod Prasad Sah
+By Pramod Prasad Sah
 
 PGT Chemistry | 25+ years of Experience in teaching CBSE & A-level
 
