@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-By Pramod Prasad Sah
+By Pramod Prasad Sah | For Grade 11 & 12
 
-PGT Chemistry | 25+ years of Experience in teaching CBSE & A-level, Grade 11 & 12
+PGT Chemistry | 25+ years of Experience in teaching CBSE & A-level
 
 in Kathmandu, Nepal +977 9825857663 (WhatsApp)
