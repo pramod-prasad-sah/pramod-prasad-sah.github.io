@@ -1,10 +1,10 @@
 ---
 title: "Chemistry for Medical and Enginnering Entrance Exams"
-collection: publication
+collection: publications
 permalink: /publication/mytextbook1
 excerpt: "Textbook for Chemistry, Grade 11 and 12"
 date: 2009-10-01
-venue: 'Kathmandu, Nepal'
+venue: 'Kathmandu'
 slidesurl: ''
 paperurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
