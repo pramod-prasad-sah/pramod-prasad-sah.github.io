@@ -1,6 +1,6 @@
 ---
 title: "Chemistry for Medical and Enginnering Entrance Exams"
-collection: publications
+collection: publication
 permalink: /publication/mytextbook1
 excerpt: "Textbook for Chemistry, Grade 11 and 12"
 date: 2009-10-01
