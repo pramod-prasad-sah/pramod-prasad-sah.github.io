@@ -21,9 +21,11 @@ Hands-on 25+ years of experience and understanding of theory and practice of **
 A complete Preparation Book for Medical & Engineering Entrance Examinations.<br>
 
 **SKILLS**<br>
-• 1. Knowledge of chemistry and a variety of strategies for engagement, instruction, and assessment.<br>
-• 2. Knowledge of and training in chemical and laboratory preparation and safety.<br>
-• 3. Communication and interpersonal skills to work with other teachers, parents, and administrators.<br>
+**1.** Knowledge of chemistry and a variety of strategies for engagement, instruction, and assessment.<br>
+**2.** Knowledge of and training in chemical and laboratory preparation and safety.<br>
+**3.** Communication and interpersonal skills to work with other teachers, parents, and administrators.<br>
 
 **EDUCATION**<br>
-B.Ed  (TU, Nepal)  2011 | M.Sc  Chemistry  (TU, Nepal) 1999 | B.Sc  (TU, Nepal)  1997 
+B.Ed  (TU, Nepal)  2011<br>
+M.Sc  Chemistry  (TU, Nepal) 1999<br>
+B.Sc  (TU, Nepal)  1997<br>
