@@ -1,11 +1,10 @@
 ---
 title: "Chemistry for Medical and Enginnering Entrance Exams"
 collection: publications
-category: manuscript
-<!--permalink: /publication/2009-10-01-paper-title-number-1-->
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/mytextbook1
+excerpt: "Textbook for Chemistry, Grade 11 and 12"
 date: 2009-10-01
-venue: 'Textbook'
+venue: 'Kathmandu, Nepal'
 slidesurl: ''
 paperurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
