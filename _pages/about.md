@@ -26,6 +26,4 @@ A complete Preparation Book for Medical & Engineering Entrance Examinations.<br>
 • 3. Communication and interpersonal skills to work with other teachers, parents, and administrators.<br>
 
 **EDUCATION**<br>
-B.Ed  (TU, Nepal)  2011 
-| M.Sc  Chemistry  (TU, Nepal) 1999 
-| B.Sc  (TU, Nepal)  1997 
+B.Ed  (TU, Nepal)  2011 | M.Sc  Chemistry  (TU, Nepal) 1999 | B.Sc  (TU, Nepal)  1997 
