@@ -13,8 +13,7 @@ Preparing students of class xi and xii every year for board exam of CBSE and for
 
 in Kathmandu, Nepal, +977 9825857663 (WhatsApp)
 
-**PROFESSIONAL SUMMARY**
-
+**PROFESSIONAL SUMMARY**<br>
 Hands-on 25+ years of experience and understanding of theory and practice of **Chemistry**. Thorough knowledge to develop, implement, and analyze student assessments. Immense ability to establish and maintain high academic standards. Amazing ability to work collaboratively with administration.
 
 **PUBLICATIONS**<br>
@@ -27,6 +26,6 @@ A complete Preparation Book for Medical & Engineering Entrance Examinations.<br>
 • 3. Communication and interpersonal skills to work with other teachers, parents, and administrators.<br>
 
 **EDUCATION**<br>
-| B.Ed  (TU, Nepal)  2011 
+B.Ed  (TU, Nepal)  2011 
 | M.Sc  Chemistry  (TU, Nepal) 1999 
 | B.Sc  (TU, Nepal)  1997 
