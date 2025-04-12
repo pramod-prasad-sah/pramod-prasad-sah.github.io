@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Chemistry Tutions"
+title: "Chemistry Tutions | For Grade 11 & 12"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-By Pramod Prasad Sah | For Grade 11 & 12
+By Pramod Prasad Sah 
 
 PGT Chemistry | 25+ years of Experience in teaching CBSE & A-level
 
